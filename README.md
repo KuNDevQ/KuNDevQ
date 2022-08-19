@@ -11,7 +11,7 @@
 [![website](https://cdn.discordapp.com/attachments/1004216983212007445/1010097276221403136/globe-dark.svg)](https://luakun.dev#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](https://cdn.discordapp.com/attachments/1004216983212007445/1010102839558803558/discord-icon_1_1.svg)](https://discord.com/users/612988303620177921#gh-dark-mode-only)
-[![website](https://cdn.discordapp.com/attachments/1004216983212007445/1010098118110498846/discord-icon.svg)](https://discord.com/users/612988303620177921#gh-light-mode-only)
+[![website](https://cdn.discordapp.com/attachments/1004216983212007445/1010103313582264370/discord-icon_2_1.svg)](https://discord.com/users/612988303620177921#gh-light-mode-only)
 &nbsp;&nbsp;
 [![website](https://cdn.discordapp.com/attachments/1004216983212007445/1010098574379470928/instagram-light.svg)](https://instagram.com/ikuni_i#gh-light-mode-only)
 [![website](https://cdn.discordapp.com/attachments/1004216983212007445/1010098574685638726/instagram-dark.svg)](https://instagram.com/ikuni_i#gh-dark-mode-only)
