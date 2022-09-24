@@ -5,7 +5,7 @@
 - 👑 Founder Lua Support & Lua Store
 - 🎓 More than 3 years of experience
 - 🐌 Professional Developer at Fivem
-- 🔵 Ask Me in Lua
+- 🔵 Ask me in Lua
 
 ### Connect with me:
 [![website](https://cdn.discordapp.com/attachments/1004216983212007445/1010095956475265074/globe-light.svg)](https://luakun.dev#gh-light-mode-only)
