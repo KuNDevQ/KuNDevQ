@@ -1,4 +1,4 @@
-### Hello, I'm Abdulmailk - aka KuN
+### Hello, I'm Abdulmalik - aka KuN
 
 ## I'm a Student, Developer
 
