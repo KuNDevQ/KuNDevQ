@@ -26,7 +26,7 @@
 <img align="left" alt="Jquery" width="26px" src="https://cdn.discordapp.com/attachments/1004216983212007445/1010102649984647258/jquery-10-1175155.webp" style="padding-right:10px;" />
 <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-<img align="left" alt="php" width="26px" src="https://cdn.discordapp.com/attachments/1004216983212007445/1010100500919767061/5968332.png" style="padding-right:10px;" />
+<img align="left" alt="php" width="26px" src="[https://cdn.discordapp.com/attachments/1004216983212007445/1010100500919767061/5968332.png](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png)" style="padding-right:10px;" />
 
 <br />
 <br />
