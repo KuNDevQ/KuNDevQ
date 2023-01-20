@@ -23,11 +23,13 @@
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Jquery" width="26px" src="https://cdn.discordapp.com/attachments/1004216983212007445/1010102649984647258/jquery-10-1175155.webp" style="padding-right:10px;" />
+<img align="left" alt="React" width="26px" src="https://cdn.discordapp.com/attachments/1014944297025556611/1066089188799291412/React-icon.svg_2.png" style="padding-right:10px;" />
 <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-<img align="left" alt="React" width="26px" src="https://cdn.discordapp.com/attachments/1014944297025556611/1066089188799291412/React-icon.svg_2.png" style="padding-right:10px;" />
+<img align="left" alt="Jquery" width="26px" src="https://cdn.discordapp.com/attachments/1004216983212007445/1010102649984647258/jquery-10-1175155.webp" style="padding-right:10px;" />
 <img align="left" alt="React" width="26px" src="https://cdn.discordapp.com/attachments/1014944297025556611/1066089590408101948/68747470733a2f2f76352e676574626f6f7473747261702e636f6d2f646f63732f352e302f6173736574732f6272616e642f626f6f7473747261702d6c6f676f2d736861646f772e706e67.png" style="padding-right:10px;" />
+
+
 <br />
 <br />
 
