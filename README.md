@@ -1,3 +1,5 @@
-### Hello, I'm Abdulmalik
+# Hey there! I'm Abdulmalik 👋
 
-## I'm a Sophomore Engineering Student at King Saud University
+* **Sophomore Engineering Student** at King Saud University.
+* Passionate about logic, mathematics, and engineering thought.
+* Web developer and tech enthusiast.
